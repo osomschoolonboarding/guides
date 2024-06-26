@@ -1333,6 +1333,8 @@ a {
   }
 }
 .cid-tJS6uM4N87 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #f7f7f7;
 }
 .cid-tJS6uM4N87 .mbr-fallback-image.disabled {
@@ -1356,7 +1358,7 @@ a {
   background: #2b7a69;
 }
 .cid-tJS6uM4N87 .mbr-section-title {
-  color: #000000;
+  color: #f92c50;
 }
 .cid-tJS6uM4N87 .mbr-text,
 .cid-tJS6uM4N87 .mbr-section-btn {
@@ -1512,6 +1514,12 @@ a {
 .cid-tMlEXTHLbS .mbr-section-head .mbr-section-btn {
   color: #ffeb69;
   text-align: center;
+}
+.cid-ugPgnCTWg4 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #000000;
+  overflow: hidden;
 }
 .cid-tJGsCG1vVL {
   z-index: 1000;
@@ -2165,4 +2173,10 @@ a {
 .cid-ugGUX8GXV4 .mbr-card-title {
   text-align: left;
   color: #f92c50;
+}
+.cid-ugPgnCTWg4 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #000000;
+  overflow: hidden;
 }
