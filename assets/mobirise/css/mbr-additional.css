@@ -1363,7 +1363,7 @@ a {
 .cid-ugHmEbMbJM {
   padding-top: 6rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #f7f7f7;
 }
 .cid-ugHmEbMbJM .mbr-fallback-image.disabled {
   display: none;
@@ -1440,6 +1440,59 @@ a {
   .cid-ugHmEbMbJM .icons-menu .soc-item a .mbr-iconfont:before {
     padding: 1.2rem;
   }
+}
+.cid-uhhBetnZAj {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-uhhBetnZAj .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uhhBetnZAj .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uhhBetnZAj .item-wrapper {
+  background-color: #0c2c68;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #0c2c68;
+  transition: all 0.3s;
+  padding: 2rem;
+  padding-top: 3rem;
+}
+.cid-uhhBetnZAj .mbr-section-title,
+.cid-uhhBetnZAj .mbr-section-subtitle {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-uhhBetnZAj .item-wrapper {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uhhBetnZAj .item-wrapper {
+    padding: 1rem;
+    padding-top: 2rem;
+  }
+}
+.cid-uhhBetnZAj .card-title {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-uhhBetnZAj .price {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-uhhBetnZAj .mbr-text {
+  color: #ffffff;
 }
 .cid-uhh68FAnka {
   padding-top: 5rem;
