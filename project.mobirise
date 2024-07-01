@@ -25,11 +25,11 @@
         "display4Size": "1.4",
         "isRoundedImages": true,
         "isRoundedButtons": true,
-        "isLargeButtons": true,
+        "isLargeButtons": false,
         "isGhostButtonBorder": true,
         "underlinedLinks": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#ffa25b",
